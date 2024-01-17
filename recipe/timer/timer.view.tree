@@ -1,0 +1,4 @@
+$cookbook_recipe_timer $mol_page
+	title \Рецепт. Таймер
+	body /
+		<= Date $mol_date

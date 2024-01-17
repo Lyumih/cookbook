@@ -1,0 +1,3 @@
+cookbook_recipe_auth $mol_page
+	body /
+		<= Title $mol_text text \Рецепт, как сделать авторизацию
